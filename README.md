@@ -9,7 +9,7 @@ In project folder run command:
 
 ##Usage (JavaScript):
 ~~~~~~{.js}
-  var char = getChar("fa-user") // return unicode char for icon with name "fa-user"
+  var char = getChar("fa-user") //return unicode char for icon "fa-user"
 ~~~~~~
 
 ##Usage (QML):
