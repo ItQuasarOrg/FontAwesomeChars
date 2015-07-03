@@ -14,7 +14,7 @@ In project folder run command:
 
 ##Usage (QML):
 ~~~~~~{.qml}
-  import "FontAwesomeGetChar" as FontAwesomeGetChar
+  import "FontAwesomeGetChar"
 
   Text {
     text: FontAwesomeGetChar.getChar("fa-user")
