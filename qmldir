@@ -1,2 +1,2 @@
-module FontAwesomeGetChar
-FontAwesomeGetChar 1.0 fontawesomegetchar.js
+module FontAwesomeChars
+FontAwesomeChars 1.0 fontawesomechars.js
