@@ -1,4 +1,4 @@
-# FontAwesomeGetChar
+# FontAwesomeChars
 Простой JavaScript скрипт для получения юникод символа иконки шрифта Awesome по ее имени.
 
 ## Установка
@@ -13,14 +13,14 @@
 ## Использование (QML):
 ~~~~~~{.qml}
   import QtQuick 2.4
-  import "FontAwesomeGetChar"
+  import "FontAwesomeChars"
  
   FontLoader {
     source: "fontawesome-webfont.ttf"
   }
  
   Text {
-    text: FontAwesomeGetChar.getChar("fa-user")
+    text: FontAwesomeChars.getChar("fa-user")
     font.family: "FontAwesome"
   }
 ~~~~~~
